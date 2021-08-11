@@ -1,0 +1,96 @@
+body{
+    background-image: url("http://images.fanpop.com/images/image_uploads/Cool-Background-wallpapers-327581_1024_768.jpg");
+background-size: cover;
+}
+#player1_heading{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+}
+#player2_heading{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+}
+#player1name{
+    background-color:lightslategray ;
+
+}
+#player2name{
+    background-color:lightslategray ;
+
+}
+#login-button{
+    font-size: large;
+    font-family: fantasy;
+    background-color:salmon ;
+    border: thin;
+    border: white;
+}
+h1{
+    font-size:xx-large;
+    font-family:cursive;
+    color: snow;
+}
+#send_button{
+    font-size: x-large;
+    font-family:serif;
+    background-color:teal ;
+    border: thin;
+    border: white;
+    color: white;
+}
+#input_number1{
+    font-size: large;
+    font-family:fantasy;
+    background-color:pink ;
+    border: thin;
+    border: white;
+    color:black; 
+}
+#input_number2{
+    font-size: large;
+    font-family:fantasy;
+    background-color:pink ;
+    border: thin;
+    border: white;
+    color:black; 
+}
+#output{
+background: white;
+border-radius: 10px;
+border-top: 10px solid powderblue;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#question{
+    font-size: x-large;
+    font-family: fantasy;
+    color:thistle;
+}
+#answer{
+    font-size: x-large;
+    font-family: fantasy;
+    color:thistle;
+}
+#name1 , #name2
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-size: x-large;
+    color: thistle;
+}
+#score1 , #score2
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-size: x-large;
+    color: thistle;
+}
+#check_button{
+    background-color: powderblue;
+    font-family: serif;
+    font-size: medium;
+
+}
